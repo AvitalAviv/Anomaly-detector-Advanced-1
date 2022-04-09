@@ -5,5 +5,5 @@ Anomaly detector developed in C++, as part of Advanced Programming 1 courser at 
 
 * OOP design patterns - Polymorphism and inheritance
 * Threading programming
-* TCP client-server
+* TCP client-server architecture
 * and more...
